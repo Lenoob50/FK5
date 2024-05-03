@@ -1,0 +1,15 @@
+name: Fallen Kingdom
+version: 1.6
+author: lenoob
+main: fr.lenoob.fk.main
+commands:
+  team:
+  fkstart:
+  fkpause:
+  fkstop:
+  bc:
+  state:
+  fktp:
+  dieu:
+  teamr:
+  scenario:

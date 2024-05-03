@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/fr/lenoob/fk/commands/CommandDieu.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/fr/lenoob/fk/commands/CommandFKTp.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/fr/lenoob/fk/commands/CommandFkStop.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/fr/lenoob/fk/commands/CommandPause.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/fr/lenoob/fk/commands/CommandStart.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/fr/lenoob/fk/commands/CommandTeam.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/fr/lenoob/fk/listeners/OnCreeperSpawn.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/fr/lenoob/fk/listeners/OnInterract.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/fr/lenoob/fk/listeners/OnJoin.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/fr/lenoob/fk/listeners/OnMoove.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/fr/lenoob/fk/listeners/OnPlace.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/fr/lenoob/fk/listeners/OnQuitt.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/fr/lenoob/fk/listeners/OnTalk.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/fr/lenoob/fk/scoreboard/SbPrelaunch.java" charset="UTF-8" />
+    <file url="PROJECT" charset="windows-1252" />
+  </component>
+</project>
